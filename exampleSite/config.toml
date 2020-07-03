@@ -7,7 +7,7 @@ languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "twentytwenty"
-title = "PoeBoy Tree Farm | NC Fraser Fir Christmas Trees"
+title = "PoeBoy Tree Farm"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
