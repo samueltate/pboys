@@ -6,9 +6,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
 - type: file
   name: image
   label: image
@@ -18,9 +15,6 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: list
-  name: tags
-  label: tags
 - type: text
   name: description
   label: description
