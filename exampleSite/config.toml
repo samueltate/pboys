@@ -13,27 +13,27 @@ unsafe = true
 [[menu.desktop]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 1
 [[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[menu.main]]
+URL = "sample-page"
+name = "Sample Page"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -43,7 +43,7 @@ description = "NC Fraser Fir Christmas Trees"
 heading = "NC Fraser Fir Christmas Trees"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "We offer premium Fraser Fir Christmas trees at discount prices! We also offer wholesale wreaths, garland, and other Christmas decor. If this is your first time visiting our site we encourage you to sign up for our monthly newsletter to stay up to date with our seasonal operations. "
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
