@@ -2589,6 +2589,7 @@ h2.entry-title {
 
 .featured-media img {
 	margin: 0 auto;
+	position: relative;
 }
 
 .featured-media figcaption {
