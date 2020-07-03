@@ -64,7 +64,7 @@ image = "images/2020-square-2.png"
 image = "images/2020-square-1.png"
 [params.social]
 email = "#"
-facebook = "#"
+facebook = "https://www.facebook.com/PoeBoy-Tree-Farms-309273342513293/"
 instagram = ""
 linkedin = ""
 twitter = ""
