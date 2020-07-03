@@ -51,9 +51,9 @@ content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean comm
 enable = true
 title = "Contact us for more information."
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+address = "241 Corbett McNeil Rd <br> Boone, North Carolina 28607"
+content = "If you are interested in placing an order with us please contact us at 828-773-2999 or 828-355-9868 or by email poeboytreefarms@outlook.com"
+copyright = "Copyright &copy; 2020 PoeBoy Tree Farms"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 title = "Contact Us"
 [params.gallery]
