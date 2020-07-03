@@ -15,17 +15,25 @@ URL = "contact"
 name = "Contact"
 weight = 3
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[menu.main]]
-URL = "about"
-name = "The Farm"
-weight = 2
+URL = "sample-page"
+name = "Sample Page"
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 4
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -35,7 +43,7 @@ description = "NC Fraser Fir Christmas Trees"
 heading = ""
 image = "/images/welcomebanner.jpg"
 [params.blog]
-heading = "Located in the mountains of North Carolina, we offer premium wholesale Fraser Fir Christmas Trees at discount prices. We also offer wholesale wreaths, garland, and other Christmas decor.\n\nSHIPPING: All purchases do not include shipping. Buyer is responsible for their own trucking. We can assist with trucking if need be.\n\nPAYMENT: Form of payment accepted is Certified Cashier’s Check. Payments must be made in full before shipment of products.\n\nCONTACT US: If you are interested in placing an order with us give us a call at 828-773-2999 or 828-355-9868 or by email poeboytreefarms@outlook.com \n"
+heading = "<h4>Located in the mountains of North Carolina, we offer premium wholesale Fraser Fir Christmas Trees at discount prices. We also offer wholesale wreaths, garland, and other Christmas decor.</h4>\n\nSHIPPING: All purchases do not include shipping. Buyer is responsible for their own trucking. We can assist with trucking if need be.\n\nPAYMENT: Form of payment accepted is Certified Cashier’s Check. Payments must be made in full before shipment of products.\n\nCONTACT US: If you are interested in placing an order with us give us a call at 828-773-2999 or 828-355-9868 or by email poeboytreefarms@outlook.com \n"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
