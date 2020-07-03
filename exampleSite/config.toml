@@ -12,16 +12,11 @@ title = "PoeBoy Tree Farm"
 unsafe = true
 [[menu.desktop]]
 name = "Garland"
-parent = "Wholesale"
-weight = 3
-[[menu.desktop]]
-name = "Wholesale"
-url = "#"
-weight = 2
+weight = 4
 [[menu.desktop]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 5
 [[menu.main]]
 URL = "/"
 name = "Home"

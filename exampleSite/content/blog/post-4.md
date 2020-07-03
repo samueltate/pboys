@@ -15,8 +15,7 @@ description: 2020 Christmas Tree Prices
 menu:
   desktop:
     name: Trees
-    weight: 1
-    parent: Wholesale
+    weight: 2
   main:
     name: Trees
     weight: 3
