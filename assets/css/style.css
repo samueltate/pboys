@@ -4990,6 +4990,10 @@ a.to-the-top>* {
 		margin: 2rem auto 0 auto;
 		width: calc(100% - 8rem);
 	}
+	
+	.full-media {
+		position: relative;
+	}
 
 	/* Template: Cover Template -------------- */
 
