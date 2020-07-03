@@ -13,7 +13,7 @@ unsafe = true
 [[menu.desktop]]
 URL = "contact"
 name = "Contact"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "sample-page"
 name = "Sample Page"
