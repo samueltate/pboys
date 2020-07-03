@@ -11,20 +11,29 @@ title = "PoeBoy Tree Farm"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-name = "Garland"
-weight = 4
-[[menu.desktop]]
 URL = "contact"
 name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "sample-page"
+name = "Sample Page"
 weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -34,7 +43,7 @@ description = "NC Fraser Fir Christmas Trees"
 heading = ""
 image = "/images/welcomebanner.jpg"
 [params.blog]
-heading = "<h4>Over 35 Years providing world-class Fraser Fir Christmas Trees and more</h4>\n\nWe are a family owned business located in the mountains of North Carolina. We offer premium wholesale Fraser Fir Christmas Trees at discount prices. We also offer wholesale wreaths, garland, and other Christmas decor.\n\nWe have been involved with North Carolina Fraser Fir Christmas trees for over 35 years. We have seen a lot of changes over the years. Yet, through the changes, North Carolina Fraser Firs still stand alone at the top of the tree market. \n\nWe take pride in the raising of Fraser Fir Christmas trees giving each tree their own special touch. As the tree business is seeming to be taken over by a handful of growers, we still take pride in giving each customer the satisfaction of knowing they’re getting a beautiful Christmas tree each holiday season. \n\nWe are here for the customer and not the chain stores. It is the customers who ultimately make the chain stores what they are. Whether you buy 100 or 1,000 you’re still #1 to us.\n\n<h4>General Information</h4>\n\n<h5>Shipping</h5>\nAll purchases do not include shipping. Buyer is responsible for their own trucking. We can assist with trucking if need be.\n\n<h5>Payments</h5> \nForm of payment accepted is Certified Cashier’s Check. Payments must be made in full before shipment of products.\n\n<h5>Contact Us</h5>\nIf you are interested in placing an order with us give us a call at 828-773-2999 or 828-355-9868 or by email <a href=\"mailto:poeboytreefarms@outlook.com\">poeboytreefarms@outlook.com</a>\n"
+heading = "<h4>Over 35 Years providing world-class Fraser Fir Christmas Trees and more</h4>\n\nWe are a family owned business located in the mountains of North Carolina. We offer premium wholesale Fraser Fir Christmas Trees at discount prices. We also offer wholesale wreaths, garland, and other Christmas decor.\n\n<h4>We value our Customers</h4>\n\nWe have seen a lot of changes over the years. Yet, through the changes, North Carolina Fraser Firs still stand alone at the top of the tree market. \n\nWe take pride in the raising of Fraser Fir Christmas trees giving each tree their own special touch. As the tree business is seeming to be taken over by a handful of growers, we still take pride in giving each customer the satisfaction of knowing they’re getting a beautiful Christmas tree each holiday season. \n\nWe are here for the customer and not the chain stores. It is the customers who ultimately make the chain stores what they are. Whether you buy 100 or 1,000 you’re still #1 to us.\n\n<h4>General Information</h4>\n\n<h5>Shipping</h5>\nAll purchases do not include shipping. Buyer is responsible for their own trucking. We can assist with trucking if need be.\n\n<h5>Payments</h5> \nForm of payment accepted is Certified Cashier’s Check. Payments must be made in full before shipment of products.\n\n<h5>Contact Us</h5>\nIf you are interested in placing an order with us give us a call at 828-773-2999 or 828-355-9868 or by email <a href=\"mailto:poeboytreefarms@outlook.com\">poeboytreefarms@outlook.com</a>\n"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
