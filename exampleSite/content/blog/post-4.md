@@ -5,7 +5,9 @@ image: "/images/poeboys-ff-close-tree.jpg"
 author:
 - Admin
 categories:
-- tour
+- Wholesale
+- Frase Fir
+- Christmas Trees
 tags:
 - tour
 - visit
