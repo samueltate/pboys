@@ -43,7 +43,7 @@ description = "NC Fraser Fir Christmas Trees"
 heading = ""
 image = "/images/welcomebanner.jpg"
 [params.blog]
-heading = "We offer premium Fraser Fir Christmas trees at discount prices! We also offer wholesale wreaths, garland, and other Christmas decor. If this is your first time visiting our site we encourage you to sign up for our monthly newsletter to stay up to date with our seasonal operations. \n\nAll purchases do not include shipping. Buyer is responsible for their own trucking. We can assist with trucking if need be.\n\nContact us: 241 Corbett McNeil Rd, Boone, NC 28607. Form of payment accepted is Certified Cashier’s Check. Payments must be made in full before shipment of products."
+heading = "Located in the mountains of North Carolina, we offer premium wholesale Fraser Fir Christmas trees at discount prices. We also offer wholesale wreaths, garland, and other Christmas decor. If this is your first time visiting our site, we encourage you to sign up for our monthly newsletter to stay up to date with our seasonal operations. \n\nIMPORTANT: All purchases do not include shipping. Buyer is responsible for their own trucking. We can assist with trucking if need be.\n\nCONTACT US: 241 Corbett McNeil Rd, Boone, NC 28607. Form of payment accepted is Certified Cashier’s Check. Payments must be made in full before shipment of products."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
