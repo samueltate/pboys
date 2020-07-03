@@ -40,7 +40,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "NC Fraser Fir Christmas Trees"
 [params.banner]
-heading = "NC Fraser Fir Christmas Trees"
+heading = ""
 image = ""
 [params.blog]
 heading = "We offer premium Fraser Fir Christmas trees at discount prices! We also offer wholesale wreaths, garland, and other Christmas decor. If this is your first time visiting our site we encourage you to sign up for our monthly newsletter to stay up to date with our seasonal operations. "
