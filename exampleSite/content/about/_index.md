@@ -3,6 +3,7 @@ title: About
 description: This is meta description
 menu:
   desktop:
+    name: The Farm
     weight: 1
 
 ---
