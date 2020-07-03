@@ -126,7 +126,7 @@ html {
 }
 
 body {
-	background: #f5efe0;
+	background: #ffffff;
 	box-sizing: border-box;
 	color: #000;
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
@@ -2245,7 +2245,7 @@ button.search-untoggle {
 }
 
 .cover-header .entry-header * {
-	color: #fff;
+	color: #aac6dd;
 }
 
 body.template-cover .entry-header {
@@ -2576,7 +2576,7 @@ h2.entry-title {
 }
 
 .singular .featured-media::before {
-	background: #fff;
+	background: #aac6dd;
 	content: "";
 	display: block;
 	position: absolute;
