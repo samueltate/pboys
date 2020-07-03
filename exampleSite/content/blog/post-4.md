@@ -13,6 +13,9 @@ tags:
 - visit
 description: 2020 Christmas Tree Prices
 menu:
+  main:
+    name: Trees
+    weight: 3
   desktop:
     name: Trees
     weight: 2
