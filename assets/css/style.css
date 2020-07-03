@@ -839,7 +839,7 @@ input[type="reset"],
 input[type="submit"] {
 	-webkit-appearance: none;
 	-moz-appearance: none;
-	background: #cd2653;
+	background: #aac6dd;
 	border: none;
 	border-radius: 0;
 	color: #fff;
@@ -3028,7 +3028,7 @@ h2.entry-title {
 }
 
 .wp-block-button.is-style-outline {
-	color: #cd2653;
+	color: #aac6dd;
 }
 
 .is-style-outline .wp-block-button__link:not(.has-text-color) {
