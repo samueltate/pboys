@@ -2,6 +2,10 @@
 title: About
 description: This is meta description
 menu:
+  main:
+    URL: about
+    name: The Farm
+    weight: 2
   desktop:
     name: The Farm
     weight: 1
