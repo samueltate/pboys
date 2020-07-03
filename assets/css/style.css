@@ -458,7 +458,7 @@ hr.styled-separator::after {
 }
 
 a {
-	color: #cd2653;
+	color: #aac6dd;
 	text-decoration: underline;
 }
 
@@ -2408,6 +2408,7 @@ body:not(.singular) main>article:first-of-type {
 .singular .entry-header {
 	background-color: #aac6dd;
 	padding: 4rem 0;
+	color: #fff;
 }
 
 .entry-categories {
