@@ -1,6 +1,6 @@
 ---
 title: 2020 Tree Prices
-date: 2020-07-02T09:40:24+00:00
+date: 2020-07-02T09:40:24.000+00:00
 image: "/images/poeboys-ff-close-tree.jpg"
 author:
 - Admin
@@ -11,6 +11,10 @@ tags:
 - visit
 description: This is meta description
 menu:
+  main:
+    URL: blog
+    name: Pricing
+    weight: 3
   desktop:
     name: Pricing
     weight: 2
